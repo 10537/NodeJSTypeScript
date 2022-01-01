@@ -1,0 +1,9 @@
+{
+  "name": "NodeJsTS",
+  "version": "1.0.0",
+  "description": "NodeJs with Typescript",
+  "main": "index.js",
+  "repository": "git@github.com:10537/NodeJSTypeScript.git",
+  "author": "Jose Moreno",
+  "license": "MIT"
+}
